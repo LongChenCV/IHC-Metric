@@ -1,9 +1,15 @@
 ### Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences
 
-This is the official implementation of our IHC metric for Quantitative Assessment of Video Sequences
+This is the official implementation of our IHC metric for quantitative assessment of video sequences
 ### Dependencies
 Matlab
 Python
+
+### Data Download
+We used 3D software Blender https://www.blender.org/ to generate 100 continuous video frames with linearly increasing
+illumination. The simulated video frames can be downloaded from
+https://1drv.ms/u/s!At3lDmLw-VwA2iLMCDxrk5miWksj?e=Cz5TYF
+
 
 ### Illumination Map Generation using the Retinex Model
 Run the SSR algorithm using Matlab to produce the illumination maps
