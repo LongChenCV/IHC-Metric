@@ -28,13 +28,11 @@ python IHC_histogram.py
 This paper is under review now. If you use this code, please cite our paper later:
 
 ```
-@InProceedings{LongChen_2024,
+@InProceedings{IHC_2024,
     author    = {Long Chen, Mobarakol Islam, and Thomas Dowrick},
     title     = {Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences},
 }
 ```
-
-This work was carried out at the National Center for Tumor Diseases (NCT) Dresden, [Department of Translational Surgical Oncology](https://www.nct-dresden.de/tso.html) and the Centre for Tactile Internet ([CeTI](https://ceti.one/)) at TU Dresden.
 
 ### License
 
