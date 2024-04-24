@@ -29,7 +29,7 @@ This paper is under review now. If you use this code, please cite our paper late
 
 ```
 @InProceedings{IHC_2024,
-    author    = {Long Chen, Mobarakol Islam, and Thomas Dowrick},
+    author    = {Long Chen, Mobarakol Islam, Matt Clarkson, and Thomas Dowrick},
     title     = {Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences},
 }
 ```
